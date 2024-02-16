@@ -19,9 +19,9 @@ body {
 }
 
 .avatar img {
-    width: 100%; /* Changé la largeur en pourcentage */
-    height: auto; /* Changé la hauteur en "auto" pour maintenir le rapport hauteur/largeur */
-    border-radius: 5px; /* Changé la valeur de "border-radius" pour une meilleure apparence rectangulaire */
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
     margin-bottom: 10px;
 }
 
