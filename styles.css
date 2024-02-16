@@ -26,13 +26,17 @@ body {
 }
 
 h1 {
-    color: #fff;
+    color: #ffffff;
     font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+    font-family: Scrypt MT Bol;
 }
 
 p {
     margin: 20px 0;
     font-weight: bold;
+    font-size: 8px;
     color:#101010;
 }
 
